@@ -13,3 +13,4 @@ Build a class based on UML
  | toString(): String          |
  | print()                     |
 
+	Write a main class called TestPerson that creates a new person and gets the person to jump using both methods.  Display your person’ details on the screen.  
